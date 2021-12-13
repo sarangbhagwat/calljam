@@ -2,7 +2,7 @@
 # Copyright (C) 2020-2022 Sarang Bhagwat <sarangb2@illinois.edu>
 # 
 # This module is under the UIUC open-source license. See 
-# github.com/BioSTEAMDevelopmentGroup/biosteam/blob/master/LICENSE.txt
+# github.com/sarangbhagwat/calljam/blob/main/LICENSE
 # for license details.
 """
 Created on Fri Sep 10 22:20:55 2021
